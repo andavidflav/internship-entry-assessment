@@ -25,7 +25,7 @@
 
 7. Are you a European citizen?  
    > If not, please be aware that the hiring process might take up to 2 months due to work permit and Visa application processes.  
-   - *(Yes/No):* No, but I have a valid visa and work permit to stay and work in Europe.
+   - *(Yes/No):* No, but I have a valid visa and work permit to stay and work in Germany Europe.
 
 8. Are you able to work full-time?  
    > This internship requires full-time availability. Full-time means 38.5 hours per week which can be scheduled freely from Monday until Friday between 6am (06:00) and 7pm (19:00). Overtime (beyond 7 hours 42 minutes) is collected and can be used for time compensation on days where you cannot work or can work less.  
